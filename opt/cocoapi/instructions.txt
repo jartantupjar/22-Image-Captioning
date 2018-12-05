@@ -1,0 +1,7 @@
+here, you put the annotations folder, images folder. 
+
+Images folder contains the ff. data/images/folder (train2014,test2014,val2014)
+
+annotations folder contains the ff. labels
+
+all .json files
